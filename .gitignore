@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+bin/
+lib/
+include/
+share/
+*.pkl
+*.csv
+.DS_Store
+.idea/
+.vscode/
